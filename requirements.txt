@@ -1,0 +1,8 @@
+# Resolved and tested together on Python 3.12 (Oct 2026)
+google-genai~=2.31
+fastapi~=0.151
+uvicorn[standard]~=0.54
+pydantic~=2.14
+python-dotenv~=1.2
+httpx~=0.28
+pytest~=9.1
