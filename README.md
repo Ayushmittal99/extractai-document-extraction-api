@@ -1,3 +1,6 @@
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1bbbeb94-c9a1-4cad-b089-2d29bc04d6ab" />
+
+
 # ExtractAI — Intelligent Document Data Extraction API
 
 FastAPI service that turns unstructured **resume** or **invoice** text into validated JSON using Gemini structured output and Pydantic.
